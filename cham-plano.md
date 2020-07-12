@@ -4,8 +4,8 @@ author: "Pedro P. Palazzo"
 date  : "Projecto de investigação para vinculação ao CHAM"
 ---
 
-Objectivos
-==========
+Hipótese e Objectivos
+=====================
 
 As unidades de medida tradicionais portuguesas se refletem em módulos
 padronizados no parcelamento do solo e no dimensionamento das
@@ -27,19 +27,18 @@ estudo em Portugal e no Brasil. Deste objetivo, decorrem algumas metas
 de fundamentação e de conteúdo:
 
 - Documentar alguns conjuntos edificados do século XIX em Portugal e no
-  Brasil, preferencialmente consistindo em pequenos tecidos urbanos
+  Brasil, preferencialmente pequenos tecidos urbanos
   constituídos num breve espaço de tempo e preservados em sua
   integridade, tais como vilas ferroviárias ou freguesias novas.
 
 - Estabelecer um esquema analítico e interpretativo para classificar os
-  módulos construtivos empregados na amostra documental, identificando
+  módulos construtivos empregados na amostra documental, identificar
   padrões de variabilidade morfológica por meio de processamento
-  quantitativo das geometrias e dimensões registadas, bem como da
-  associação entre módulos, sistemas construtivos e configurações
-  espaciais.
+  quantitativo das geometrias e dimensões registadas, bem como
+  associar módulos, sistemas construtivos e configurações espaciais.
 
-- Avaliar os resultados obtidos preliminarmente quanto à possibilidade
-  de constituírem um esquema interpretativo geral, capaz de agregar
+- Avaliar os resultados preliminares quanto à possibilidade de
+  constituírem um esquema interpretativo geral, capaz de agregar
   inquéritos e documentações futuras.
 
 A análise terá por base o referencial historiográfico sobre a
@@ -69,9 +68,9 @@ diversidade de soluções técnicas e formais, e submeter o conjunto de
 dados coletados a análises quantitativas.
 
 A constituição do acervo documental necessário a qualquer análise será,
-portanto, nossa primeira e principal preocupação. Levantamentos
-arquitetônicos existentes se encontram dispersos em arquivos e, por
-vezes, em publicações variadas. O desafio metodológico consiste em
+portanto, nossa primeira e principal preocupação. Documentos
+arquitectónicos existentes se encontram dispersos em arquivos e, por
+vezes, em publicações variadas. Um desafio metodológico consiste em
 sistematizar os dados extraídos desses levantamentos, de modo a
 torná-los comparáveis entre si. Essa sistematização compreende duas
 etapas interdependentes: a elaboração de ontologias classificatórias e a
@@ -80,6 +79,10 @@ a leitura analítica das fontes documentais e dos levantamentos gráficos
 e cartográficos conduz à identificação de padrões espaciais e
 construtivos, que por sua vez empregaremos para organizar o material
 pesquisado.
+
+O ponto de partida para elaborar as ontologias serão os modelos de
+parametrização de elementos espaciais e construtivos estabelecidos por
+Giusti e Steadman.
 
 Os módulos construtivos, que evidenciam a persistência e a transformação
 de práticas profissionais e de padrões de organização das cadeias
