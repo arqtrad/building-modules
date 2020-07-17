@@ -2,6 +2,16 @@
 title : "Módulos e práticas na construção tradicional do século XIX"
 author: "Pedro P. Palazzo"
 date  : "Projecto de investigação para vinculação ao CHAM"
+lang  : pt-BR
+abstract: >
+  Este projecto busca estabelecer um marco metodológico para a
+  identificação de módulos dimensionais persistentes na arquitetura
+  vernácula luso-brasileira ao longo do século XIX. Partindo de
+  documentação arquitectónica existente, será constituído um esquema de
+  identificação semântica de elementos construtivos em HBIM e SIG,
+  passível de ser submetido a análises quantitativas. Espera-se
+  relacionar a ocorrência de gamas de medidas tradicionais ao emprego de
+  determinados sistemas construtivos e à sua distribuição geográfica.
 ---
 
 Hipótese e Objectivos
@@ -80,10 +90,6 @@ e cartográficos conduz à identificação de padrões espaciais e
 construtivos, que por sua vez empregaremos para organizar o material
 pesquisado.
 
-O ponto de partida para elaborar as ontologias serão os modelos de
-parametrização de elementos espaciais e construtivos estabelecidos por
-Giusti e Steadman.
-
 Os módulos construtivos, que evidenciam a persistência e a transformação
 de práticas profissionais e de padrões de organização das cadeias
 produtivas vernáculas, serão situados nos territórios por meio de
@@ -102,19 +108,24 @@ HBIM, a representação tridimensional da edificação serve como suporte
 para a inclusão de informações semânticas, mas também para a modelagem e
 avaliação de cenários e prognósticos.
 
-
-
 Os resultados alcançados em cada escala de análise devem ser
 interpretados de modo sistêmico, atentando para as relações entre o
 substrato urbanístico portante, as configurações espaciais e edilícias
 realizáveis nos padrões de parcelamento do solo observados, e a
-materialização construtiva desses espaços arquitetônicos. As
+materialização construtiva desses espaços arquitectónicos. As
 aproximações e divergências eventualmente verificadas no universo de
 objetos a serem documentados oferecerão os indícios para elaborar
 taxonomias de sistemas edilícios tradicionais.
 
 Resultados pretendidos
 ======================
+
+O produto inicial desta investigação será o esquema ontológico de
+elementos construtivos e módulos dimensionais aplicável a sistemas HBIM
+e SIG. O modelo será testado num par de casos de estudo preliminares em
+escopos territorial, tipológico e cronológico restritos. Os resultados
+desta avaliação preliminar serão compilados em forma de artigo a ser
+submetido para publicação à *Revista de Morfologia Urbana*.
 
 Cronograma
 ==========
